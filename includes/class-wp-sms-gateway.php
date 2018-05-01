@@ -84,6 +84,7 @@ class WP_SMS_Gateway {
 				'tripadasmsbox'    => 'tripadasmsbox.com'
 			),
 			'iran'           => array(
+				'forbiz'         => 'forbiz.ir',
 				'iransmspanel'   => 'iransmspanel.ir',
 				'chaparpanel'    => 'chaparpanel.ir',
 				'markazpayamak'  => 'markazpayamak.ir',
